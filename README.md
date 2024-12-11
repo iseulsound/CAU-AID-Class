@@ -44,13 +44,13 @@ Ensure you have the following installed:
 
 ## Example
 ### Console Interaction:
-
+```bash
 Enter the number of neighbors (k) for KNN : 3
 Model Accuracy: 0.96
 BAlanced Accuracy: 0.95
 Enter the sepal.length and petal.length for the iris in the format `sepal_length,petal_length`: 5.1,,1.8
 Predicted Label: Virginica
-
+```
 
 ## Notes 
 - Ensure that the input for predictions is numeric and follows the correct format (`value1, value2`).
@@ -61,4 +61,4 @@ This project is licensed under the <u style="color:blue"> MIT Lisense. </u>
 
 
 ## Author
-Developed by [leeseulhee](
+Developed by [leeseulhee](https://github.com/iseulsound/CAU-AID-Class.git)
